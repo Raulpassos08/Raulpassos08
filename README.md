@@ -13,4 +13,4 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulpassos08&layout=compact&langs_count=16&theme=dracula"/>
